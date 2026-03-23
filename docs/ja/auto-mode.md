@@ -134,6 +134,5 @@
 
 ## 注意事項
 
-- 実行中は `autoApprove`（確認ダイアログの自動承認）が一時的に有効になります
-- 連続オートモード終了後、`autoApprove` は元の設定に戻ります
+- 完全自律動作には [pesosz/antigravity-auto-accept](https://github.com/pesosz/antigravity-auto-accept) をインストールして承認ダイアログを自動処理してください
 - セーフティガードは常に有効です（無効化できません）

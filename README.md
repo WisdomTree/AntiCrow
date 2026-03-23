@@ -1,6 +1,6 @@
 # 🐦‍⬛ AntiCrow
 
-![Version](https://img.shields.io/badge/version-0.1.7-blue)
+![Version](https://img.shields.io/badge/version-0.1.8-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Node.js](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen)
 
@@ -72,7 +72,7 @@ AntiCrow acts as a bridge between Discord and Antigravity.
 | Discord Account | Developer Portal access required for Bot creation |
 | Discord Server | A server where you have admin permissions |
 
-> 💡 AntiCrow has built-in **auto-approve** functionality that automatically handles approval buttons (Run / Allow / Continue) in Antigravity. This enables fully autonomous operation from Discord without any additional extensions.
+> 💡 For fully autonomous operation, install the companion extension [pesosz/antigravity-auto-accept](https://github.com/pesosz/antigravity-auto-accept), which automatically handles approval buttons (Run / Allow / Continue) in Antigravity.
 
 ---
 
@@ -225,11 +225,13 @@ Toggle on/off with the `/team` command.
 | Setting Key | Type | Default | Description |
 | --- | --- | --- | --- |
 | `antiCrow.botToken` | boolean | `false` | Bot Token configuration status (display only) |
-| `antiCrow.responseTimeoutMs` | number | `0` | Idle timeout since last progress update (0 = unlimited) |
-| `antiCrow.autoStart` | boolean | `true` | Automatically start bridge on launch |
-| `antiCrow.categoryArchiveDays` | number | `7` | Workspace category auto-archive days (0 = disabled) |
 | `antiCrow.allowedUserIds` | string[] | `[]` | Allowed Discord user IDs (**empty = all denied**) |
+| `antiCrow.autoStart` | boolean | `true` | Automatically start bridge on launch |
+| `antiCrow.language` | string | `ja` | UI and prompt display language (`ja` / `en`) |
+| `antiCrow.cdpPort` | number | `9000` | CDP (Chrome DevTools Protocol) port |
+| `antiCrow.responseTimeoutMs` | number | `0` | Idle timeout since last progress update (0 = unlimited) |
 | `antiCrow.maxRetries` | number | `0` | Auto retry count on timeout (0 = disabled) |
+| `antiCrow.categoryArchiveDays` | number | `7` | Workspace category auto-archive days (0 = disabled) |
 | `antiCrow.workspaceParentDirs` | string[] | `[]` | Parent directories for new workspace creation |
 
 ---

@@ -135,6 +135,5 @@ Settings specified with `/auto` are **saved per channel**. Next time you use `/a
 ## Notes
 
 - Continuous Auto Mode is available to all users for free
-- During execution, `autoApprove` (auto-approve confirmation dialogs) is temporarily enabled
-- After Continuous Auto Mode ends, `autoApprove` reverts to its original setting
+- For fully autonomous operation, install [pesosz/antigravity-auto-accept](https://github.com/pesosz/antigravity-auto-accept) to automatically handle approval dialogs
 - Safety Guard is always active (cannot be disabled)

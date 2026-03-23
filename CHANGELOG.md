@@ -6,6 +6,18 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/).
 
 ## [Unreleased]
 
+## [0.1.8] - 2026-03-24
+
+### Fixed
+
+- Removed outdated "built-in auto-approve" claim from README; now correctly references external [pesosz/antigravity-auto-accept](https://github.com/pesosz/antigravity-auto-accept) extension
+- Removed orphan `anti-crow.toggleAutoAccept` command definition from package.json (no implementation since v0.1.1)
+- Updated auto-mode docs (en/ja) to replace `autoApprove` setting references with external extension guidance
+
+### Changed
+
+- Added missing `language` and `cdpPort` settings to README settings reference table
+
 ## [0.1.7] - 2026-03-20
 
 ### Fixed
