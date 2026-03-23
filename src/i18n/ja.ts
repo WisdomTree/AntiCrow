@@ -857,18 +857,6 @@ export const messages = {
   'command.auto.desc': '連続オートモード — AIが自動的にタスクを連続実行します',
   'command.auto.promptDesc': 'タスクのプロンプト（例: --steps 10 --confirm semi LPをリニューアルして）',
   'command.autoConfig.desc': '連続オートモードの設定を表示・変更します',
-  'command.update.desc': 'AntiCrow を最新バージョンに更新します',
-
-  // --- アップデート通知 ---
-  'update.checking': '🔍 最新バージョンを確認中...',
-  'update.alreadyLatest': '✅ 現在のバージョン **v{0}** は最新です。',
-  'update.downloading': '📥 新しいバージョンをダウンロード中...',
-  'update.installing': '⚙️ インストール中...',
-  'update.complete': 'アップデート完了！拡張機能ホストが再起動します。',
-  'update.error': '❌ アップデートに失敗しました: {0}',
-
-  // --- ヘルプに update を追加 ---
-  'admin.help.cmdUpdate': '`/update` — 最新版に更新',
 
   // --- 連続オートモード通知 ---
   'autoMode.defaultPrompt': '提案に基づいて次のタスクを自動実行してください',

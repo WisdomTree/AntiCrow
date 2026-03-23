@@ -42,7 +42,6 @@ import { readAnticrowMd } from './anticrowCustomizer';
 import { t } from './i18n';
 import { loadAutoModeConfig, saveAutoModeConfig, parseAutoModeArgs, formatConfigForDisplay, setConfigStoragePath } from './autoModeConfig';
 import { isAutoModeActive, stopAutoMode } from './autoModeController';
-import { handleUpdate } from './slashButtonUpdate';
 import { resolveTargetCdpAsync } from './slashHelpers';
 
 // ---------------------------------------------------------------------------
@@ -594,7 +593,6 @@ async function handleHelp(_ctx: BridgeContext, interaction: ChatInputCommandInte
         t('admin.help.cmdSoul'),
         t('admin.help.cmdSuggest'),
         t('admin.help.cmdAuto'),
-        t('admin.help.cmdUpdate'),
         t('admin.help.cmdHelp'),
         '',
         t('admin.help.tipsTitle'),
@@ -1022,7 +1020,6 @@ const COMMAND_HANDLERS: Record<string, CommandHandler> = {
     team: handleTeam,
     auto: handleAutoMode,
     'auto-config': handleAutoConfig,
-    update: handleUpdate,
 };
 
 // ---------------------------------------------------------------------------

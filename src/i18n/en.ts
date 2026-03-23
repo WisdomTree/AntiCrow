@@ -824,18 +824,6 @@ export const messages = {
   'command.auto.desc': 'Continuous Auto — AI automatically executes tasks in sequence',
   'command.auto.promptDesc': 'Task prompt (e.g. --steps 10 --confirm semi Redesign the landing page)',
   'command.autoConfig.desc': 'View and configure Continuous Auto settings',
-  'command.update.desc': 'Update AntiCrow to the latest version',
-
-  // --- Update notifications ---
-  'update.checking': '🔍 Checking for updates...',
-  'update.alreadyLatest': '✅ Current version **v{0}** is up to date.',
-  'update.downloading': '📥 Downloading new version...',
-  'update.installing': '⚙️ Installing...',
-  'update.complete': 'Update complete! Extension host will restart.',
-  'update.error': '❌ Update failed: {0}',
-
-  // --- Help: update ---
-  'admin.help.cmdUpdate': '`/update` — Update to the latest version',
 
   // --- Continuous Auto notifications ---
   'autoMode.defaultPrompt': 'Automatically execute the next task based on suggestions',

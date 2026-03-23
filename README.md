@@ -217,7 +217,6 @@ Toggle on/off with the `/team` command.
 | `/suggest` | Re-display suggestion buttons |
 | `/screenshot` | Capture current screen |
 | `/soul` | View/reset customization settings |
-| `/update` | Auto-update to latest version |
 | `/help` | Display usage guide |
 
 ---

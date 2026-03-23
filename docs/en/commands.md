@@ -165,10 +165,3 @@ Edit directly via Discord modal (up to 4000 characters).
 
 Capture and send a screenshot of the current screen to Discord.
 
----
-
-## Updates
-
-### `/update`
-
-Update AntiCrow to the latest version. Downloads and installs the latest version automatically.
