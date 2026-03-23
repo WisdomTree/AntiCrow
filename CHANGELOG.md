@@ -6,6 +6,22 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/).
 
 ## [Unreleased]
 
+## [0.1.9] - 2026-03-24
+
+### Removed
+
+- Removed `/update` slash command (OpenVSX marketplace handles updates)
+- Removed R2 distribution system (`upload-r2.ts`, `r2-deploy` skill, `upload:r2` script)
+- Removed `--allow-missing-repository` flag from package script (repository field now set)
+
+### Changed
+
+- Added `repository` field and updated `bugs` URL to GitHub Issues in package.json
+- Unified install instructions across all docs to Antigravity marketplace search + OpenVSX
+- Added OGP banner image to README
+- VSIX package size reduced from 2.9MB to 1.6MB by narrowing `.vscodeignore`
+- Repository is now public
+
 ## [0.1.8] - 2026-03-24
 
 ### Fixed

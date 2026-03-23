@@ -2,7 +2,7 @@
   "name": "anti-crow",
   "displayName": "AntiCrow",
   "description": "Control Antigravity AI from Discord — send natural language tasks, schedule or run instantly, and get results back in real time.",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "publisher": "lucianlamp",
   "author": "lucianlamp",
   "icon": "images/AntiCrowIcon.png",
@@ -140,7 +140,7 @@
     "watch": "tsc -watch -p ./",
     "typecheck": "tsc -p ./ --noEmit",
     "bundle": "node ./esbuild.js",
-    "package": "npx -y @vscode/vsce package --no-dependencies --allow-missing-repository --skip-license --baseContentUrl \".\" --baseImagesUrl \".\"",
+    "package": "npx -y @vscode/vsce package --no-dependencies --skip-license",
     "deploy": "npm run compile && npm run bundle && npm run package",
     "test": "vitest run",
     "vscode:prepublish": "npm run typecheck && npm run bundle"
