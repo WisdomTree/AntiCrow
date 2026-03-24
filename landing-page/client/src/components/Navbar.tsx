@@ -81,13 +81,6 @@ export default function Navbar() {
             <Globe className="w-3.5 h-3.5" />
             {i18n.language === "ja" ? "EN" : "JA"}
           </button>
-          <a
-            href="#install"
-            className="relative px-5 py-2.5 text-sm font-semibold rounded-full overflow-hidden group"
-          >
-            <span className="absolute inset-0 bg-gradient-to-r from-indigo to-coral opacity-90 group-hover:opacity-100 transition-opacity" />
-            <span className="relative text-white">{t("nav.install")}</span>
-          </a>
         </div>
 
         {/* Mobile Toggle */}
@@ -137,13 +130,6 @@ export default function Navbar() {
                   <Globe className="w-4 h-4" />
                   {i18n.language === "ja" ? "EN" : "JA"}
                 </button>
-                <a
-                  href="#install"
-                  onClick={() => setMobileOpen(false)}
-                  className="flex-1 inline-flex items-center justify-center px-5 py-3 text-sm font-semibold rounded-full bg-gradient-to-r from-indigo to-coral text-white"
-                >
-                  {t("nav.install")}
-                </a>
               </div>
             </div>
           </motion.div>
