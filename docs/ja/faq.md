@@ -79,7 +79,7 @@ git init && git add -A && git commit -m "initial commit"
 
 ### Q: AntiCrow は無料ですか？
 
-はい。AntiCrow は MIT License のオープンソースソフトウェアで、すべての機能を無料・無制限で利用できます。タスク実行回数の制限もありません。
+はい。AntiCrow は PolyForm Noncommercial License 1.0.0 のもとで公開されているオープンソースソフトウェアで、すべての機能を無料・無制限で利用できます。タスク実行回数の制限もありません。商用利用は制限されています。
 
 ---
 

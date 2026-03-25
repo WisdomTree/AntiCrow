@@ -67,7 +67,7 @@ If your Discord account is compromised, you can immediately block unauthorized a
 
 ## Open Source
 
-AntiCrow is released under the **MIT License**. The source code is publicly available and all features are free to use.
+AntiCrow is released under the **PolyForm Noncommercial License 1.0.0**. The source code is publicly available and all features are free for noncommercial use.
 
 ---
 

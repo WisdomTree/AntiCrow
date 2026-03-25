@@ -79,7 +79,7 @@ git init && git add -A && git commit -m "initial commit"
 
 ### Q: Is AntiCrow free?
 
-Yes! AntiCrow is **completely free open-source software** released under the **MIT License**. All features are available with no restrictions or paid plans.
+Yes! AntiCrow is **completely free software** released under the **PolyForm Noncommercial License 1.0.0**. All features are available with no restrictions or paid plans. Commercial use is not permitted.
 
 ### Q: Are there any usage limits?
 

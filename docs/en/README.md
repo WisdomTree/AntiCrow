@@ -8,7 +8,7 @@ AntiCrow is an extension that lets you control Antigravity (an AI coding assista
 
 Whether you're on your phone or PC, as long as you have Discord, you can ask AI to code for you.
 
-AntiCrow is **free open-source software** released under the **MIT License**.
+AntiCrow is **free software** released under the **PolyForm Noncommercial License 1.0.0**.
 
 ## Key Features
 
@@ -19,7 +19,7 @@ AntiCrow is **free open-source software** released under the **MIT License**.
 - 📋 **Templates** — Save frequently used prompts and execute with one click
 - 🛡️ **Safety Guard** — Automatically detects and blocks dangerous commands
 - 🔐 **Security** — Only authorized users can operate the bot
-- 🆓 **Completely Free** — All features available at no cost (MIT License)
+- 🆓 **Completely Free** — All features available at no cost (noncommercial license)
 
 ## Table of Contents
 
@@ -44,7 +44,7 @@ Bug reports and feature requests are welcome on our Discord server.
 
 ## License
 
-AntiCrow is released under the **MIT License**. See [About AntiCrow](pro-plan.md) for details.
+AntiCrow is released under the **PolyForm Noncommercial License 1.0.0**. See [About AntiCrow](pro-plan.md) for details.
 
 ## ⚠️ Disclaimer
 

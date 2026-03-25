@@ -5,7 +5,7 @@
 # 🐦‍⬛ AntiCrow
 
 ![Version](https://img.shields.io/badge/version-0.2.0-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
+![License](https://img.shields.io/badge/license-PolyForm%20Noncommercial-blue)
 ![Node.js](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen)
 
 [Website](https://anticrow.pages.dev) | [Documentation](https://anticrow.gitbook.io/en) | [OpenVSX](https://open-vsx.org/extension/lucianlamp/anti-crow)
@@ -339,6 +339,6 @@ AntiCrow does not use Antigravity's OAuth keys or API keys. It operates the Anti
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE.md).
+This project is licensed under the [PolyForm Noncommercial License 1.0.0](LICENSE).
 
 Copyright (c) 2026 LUCIAN (lucianlamp)

@@ -1,6 +1,6 @@
 # Pricing
 
-AntiCrow is **completely free open-source software** released under the **MIT License**.
+AntiCrow is **completely free software** released under the **PolyForm Noncommercial License 1.0.0**.
 
 ## All Features Free
 
@@ -21,4 +21,4 @@ There are no paid plans or feature restrictions. All features are available to e
 
 ## License
 
-AntiCrow is released under the **MIT License**. It is free to use, modify, and distribute.
+AntiCrow is released under the **PolyForm Noncommercial License 1.0.0**. It is free for personal and noncommercial use. Commercial use is not permitted.

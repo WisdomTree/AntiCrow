@@ -38,7 +38,7 @@ AntiCrow は、Discord のメッセージを通じて Antigravity（AI コーデ
 
 ## ライセンス
 
-MIT License — 完全無料のオープンソースソフトウェアです。
+PolyForm Noncommercial License 1.0.0 — 個人利用無料のオープンソースソフトウェアです。
 
 ## サポート
 

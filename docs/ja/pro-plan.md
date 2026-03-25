@@ -4,7 +4,7 @@
 
 ## オープンソース
 
-AntiCrow は **MIT License** のオープンソースソフトウェアです。すべての機能を無料・無制限で利用できます。
+AntiCrow は **PolyForm Noncommercial License 1.0.0** のもとで公開されています。個人利用・非商用利用ではすべての機能を無料・無制限で利用できます。
 
 ## 利用可能な機能
 
@@ -20,6 +20,6 @@ AntiCrow は **MIT License** のオープンソースソフトウェアです。
 
 ## ライセンス
 
-MIT License — 商用利用・改変・再配布が自由に可能です。
+PolyForm Noncommercial License 1.0.0 — 個人利用・研究・教育目的での利用が自由です。商用利用は制限されています。
 
-詳細は [GitHub リポジトリ](https://github.com/lucianlamp/anti-crow) の LICENSE ファイルをご確認ください。
+詳細は [GitHub リポジトリ](https://github.com/lucianlamp/AntiCrow) の LICENSE ファイルをご確認ください。
